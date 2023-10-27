@@ -1,6 +1,13 @@
 # book-store
 mini bookstore
+
+
+
 https://github.com/DenizCintas/book-store/assets/105287082/f2ff389f-1e2e-46ea-92a7-6471c513e621
+
+
+
+
 
 
 https://github.com/DenizCintas/book-store/assets/105287082/dd3a91ea-e0d7-4dd8-a263-7c714e4ef46a
